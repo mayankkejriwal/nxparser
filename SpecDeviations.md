@@ -1,0 +1,2 @@
+So far, the following deviations from the [N-Triples](http://www.w3.org/TR/n-triples/)/[N-Quads](http://www.w3.org/TR/n-quads/) spec are known:
+  * Parts of a statement (e.g. subject, predicate,...) are expected to separated by at least one whitespace character (space, tab, ...).
